@@ -20,9 +20,13 @@ We define <img src="https://render.githubusercontent.com/render/math?math=f(x)=r
 
 therefore if <img src="https://render.githubusercontent.com/render/math?math=0\le x\le 1">, then <img src="https://render.githubusercontent.com/render/math?math=0 < r\le 4">.
 
-## Periodic vs chaotic cases
+## Periodic case vs chaotic case
 
 <p>
   <img src="/GeneratedFiles/PeriodicCase.png" width="400"/>
   <img src="/GeneratedFiles/ChaoticCase.png" width="400"/>
 </p>
+
+## Self similarity
+
+<img src="/GeneratedFiles/BifurcationPlot.png" width="800"/>
