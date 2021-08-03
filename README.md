@@ -1,4 +1,4 @@
-# LogisticMap
+# Logistic Map
 ## Population growth problem (for small populations)
 
 <img src="https://render.githubusercontent.com/render/math?math=P_{n}=rP_{n-1}">
@@ -19,3 +19,10 @@ If <img src="https://render.githubusercontent.com/render/math?math=x_n=(\frac{b}
 We define <img src="https://render.githubusercontent.com/render/math?math=f(x)=rx(1-x)"> and <img src="https://render.githubusercontent.com/render/math?math=F(x,r)=rx(1-x)">,
 
 therefore if <img src="https://render.githubusercontent.com/render/math?math=0\le x\le 1">, then <img src="https://render.githubusercontent.com/render/math?math=0 < r\le 4">.
+
+## Periodic vs chaotic cases
+
+<p>
+  <img src="/GeneratedFiles/PeriodicCase.png" width="400"/>
+  <img src="/GeneratedFiles/ChaoticCase.png" width="400"/>
+</p>
