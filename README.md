@@ -28,7 +28,7 @@ and
 
 <img src="https://render.githubusercontent.com/render/math?math=r > 4 \Rightarrow \frac{r}{4}=f\big(\frac{1}{2}\big)>1"> 
 
-yields <img src="https://render.githubusercontent.com/render/math?math=x> 1">, which is outside the legal value interval. 
+in other words an instance has been found where the <b>population size</b> violates the legal value interval. 
 
 Therefore, <img src="https://render.githubusercontent.com/render/math?math=0 < r\le 4">.
 
