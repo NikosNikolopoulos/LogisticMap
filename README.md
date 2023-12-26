@@ -10,7 +10,7 @@ $P_n \sim e^{(r-1)n}$
   <LI>If $r=1, \quad \text{then} \quad \lim P_n=P_0$.</LI>
 </UL>
 
-## Iterative one step equation (which is deterministc, if <img src="https://render.githubusercontent.com/render/math?math=P_{0}"> is known):
+## Iterative one step equation (which is deterministc, if $P_{0}$ is known):
 
 $P_{n}=P_{n-1}(r-bP_{n-1})$
 
